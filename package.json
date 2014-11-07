@@ -1,10 +1,6 @@
 {
   "name": "semantic-ui-comment",
-<<<<<<< HEAD
   "version": "1.0.0-beta",
-=======
-  "version": "1.0.0",
->>>>>>> 599bdbd7984d422a1c7af5ade9c44c9bf7da25f5
   "title": "Semantic UI - Comment",
   "description": "Single component release of comment",
   "homepage": "http://www.semantic-ui.com",
@@ -17,11 +13,5 @@
   "bugs": {
     "url": "https://github.com/Semantic-Org/Semantic-UI/issues"
   },
-<<<<<<< HEAD
-=======
-  "dependencies": {
-    "jquery": "x.x.x"
-  },
->>>>>>> 599bdbd7984d422a1c7af5ade9c44c9bf7da25f5
   "devDependencies": {}
 }
