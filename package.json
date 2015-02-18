@@ -1,0 +1,21 @@
+{
+  "name": "semantic-ui-comment",
+<<<<<<< HEAD
+  "version": "1.0.0-beta",
+=======
+  "version": "1.7.2",
+>>>>>>> 96c4f0174a7815007b280e93749d36860f141877
+  "title": "Semantic UI - Comment",
+  "description": "Single component release of comment",
+  "homepage": "http://www.semantic-ui.com",
+  "author": "Jack Lukic <jack@semantic-ui.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Semantic-Org/UI-Comment.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Semantic-Org/Semantic-UI/issues"
+  },
+  "devDependencies": {}
+}

@@ -1,0 +1,23 @@
+{
+  "name": "semantic/comment",
+  "description": "Single component release of comment",
+  "homepage": "http://www.semantic-ui.com",
+  "authors": [{
+    "name": "Jack Lukic",
+    "email": "jacklukic@gmail.com",
+    "web": "http://www.jacklukic.com",
+    "role": "Creator"
+  }],
+  "keywords": [
+    "semantic",
+    "ui",
+    "css",
+    "framework"
+  ],
+  "license": "MIT",
+<<<<<<< HEAD
+  "version": "1.0.0-beta"
+=======
+  "version": "1.7.2"
+>>>>>>> 96c4f0174a7815007b280e93749d36860f141877
+}
