@@ -16,12 +16,15 @@ bower install semantic-ui-comment
 npm install semantic-ui-comment
 ```
 
+<<<<<<< HEAD
 #### To install with Meteor
 ```
 meteor add semantic:ui-comment
 ```
 
 
+=======
+>>>>>>> 9f2690aca4bf7eb52dcf5ebd9819749dd74c1906
 ## Addendum
 
 This element's definitions (required class names, html structures) are available in the [UI Docs](http://www.semantic-ui.com)
