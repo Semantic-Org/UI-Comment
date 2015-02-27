@@ -1,3 +1,7 @@
+### Version 1.10.3 - February 27, 2015
+
+- **Build Tools** - All UI components now have component name in comment banners and release version
+
 ### Version 1.8.0 - January 23, 2015
 
 [View Closed Issues](https://github.com/Semantic-Org/Semantic-UI/issues?q=is%3Aissue+milestone%3A1.8.0+is%3Aclosed+sort%3Acomments-desc)
