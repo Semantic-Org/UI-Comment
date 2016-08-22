@@ -1,3 +1,7 @@
+### Version 2.2.3 - August 21, 2016
+
+- **Comments** - Adds missing sizes (mini, tiny etc) **Thanks @ilanus** [#4408](https://github.com/Semantic-Org/Semantic-UI/issues/4408)
+
 ### Version 2.1.1 - Sep 02, 2015
 
 - **Build Tools** - Fixes [issue](https://github.com/Semantic-Org/Semantic-UI/commit/3d20d5e9796e05cc100af73370173f3383cf1d81) causing comment banner to incorrectly show version `2.0.7` in `dist/`
