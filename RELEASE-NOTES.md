@@ -1,3 +1,8 @@
+#### Dropdown
+
+- **Comments** - `small`, `large` and other comment sizes now default to global size variables.
+- **Comments** - Added missing `size` variations to comments docs [#4450](https://github.com/Semantic-Org/Semantic-UI/pull/4450)
+
 ### Version 2.2.3 - August 21, 2016
 
 - **Comments** - Adds missing sizes (mini, tiny etc) **Thanks @ilanus** [#4408](https://github.com/Semantic-Org/Semantic-UI/issues/4408)
