@@ -2,7 +2,7 @@
 Package.describe({
   name    : 'semantic:ui-comment',
   summary : 'Semantic UI - Comment: Single component release',
-  version : '2.2.8',
+  version : '2.2.10',
   git     : 'git://github.com/Semantic-Org/UI-Comment.git',
 });
 
