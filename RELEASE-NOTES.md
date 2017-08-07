@@ -1,3 +1,7 @@
+### Version 2.2.12 - Aug 07, 2017
+
+Caused by: DefaultsError: `preserveComments` is not a supported option
+
 #### Dropdown
 
 - **Comments** - `small`, `large` and other comment sizes now default to global size variables.
